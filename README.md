@@ -60,6 +60,7 @@ Reduce time spent on boilerplate code
 
 ### Isha Sharma
 ### Data Scientist – Risk, Fraud & Financial Analytics
+https://julius.ai/s/notebooks/07adb022-4060-4a14-879f-7e18638065a9?utm_source=share&utm_campaign=notebooks&utm_medium=referral
 
 Focus more on interpretation and decision-making
 
